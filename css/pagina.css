@@ -1,0 +1,53 @@
+ td, th {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+        caption, th, td {
+            padding: .2em .8em;
+            border: 1px solid #fff;
+        }
+
+        caption {
+            background-color: #00568f;
+            color: #dfdfdf;
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+
+        th {
+            font-weight: bold;
+        }
+
+        td {
+            background: #DCDCDC;
+        }
+
+        .jumbotron {
+            text-align: center;
+            width: 100%;
+            margin-top: 2%;
+        }
+
+        .table {
+            margin-top: 2%;
+            width: 100%;
+        }
+
+        .table-striped th {
+            background-color: #00568f;
+            color: #dfdfdf;
+        }
+
+        .table-striped td {
+            text-align: center;
+        }
+
+        .table-striped {
+            border: double;
+            width: 80%;
+        }
